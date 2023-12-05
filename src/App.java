@@ -9,7 +9,7 @@ public class App {
 
         // Adicionar 5 alunos a lista
         alunoRepository.adicionar(new Aluno("João", "0000000001")); 
-        alunoRepository.adicionar(new Aluno("Toin", "0000000002"));
+        alunoRepository.adicionar(new Aluno("Toin51", "0000000002"));
         alunoRepository.adicionar(new Aluno("Fabin", "0000000003"));
         alunoRepository.adicionar(new Aluno("Manoel", "0000000004")); 
         alunoRepository.adicionar(new Aluno("Alan", "0000000005"));
